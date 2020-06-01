@@ -1,6 +1,6 @@
 import sys
 import getopt
-from H5extract import H5demo
+from H5demo import H5demo
 
 
 def help():
